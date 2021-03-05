@@ -2,6 +2,7 @@
 
 # Dicee-App
 
+This app was built during the course "Complete iOS App Development Bootcamp" from Appbrewery by Angela Yu. 
 
 ## Description
 
