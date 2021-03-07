@@ -11,7 +11,7 @@ You can make the die roll at the press of a button or by shaking your phone. Wit
 
 ## Screenshot
 
-<img src= Documentation/ScreenShot1.png  height="375" width="175"> <img src= Documentation/ScreenShot2.png height="375" width="175">
+<img src= Documentation/ScreenShot1.png  height="375" width="175"><img src= Documentation/ScreenShot2.png height="375" width="175">
 
 
 ## What I learned with this app
